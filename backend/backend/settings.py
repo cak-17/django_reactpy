@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9prud=s@#q2z_ldm1q)as+xbjrvo2+jarkd87e*__+=u+b00yr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["fracat-think.local", "localhost", "*"]
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
