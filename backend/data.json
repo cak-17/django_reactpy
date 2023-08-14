@@ -1,0 +1,29 @@
+[
+    {
+        "model": "api.product",
+        "pk": 1,
+        "fields": {
+            "name": "Pizza Margherita",
+            "description": "Mozzarella Pomodoro Basilico",
+            "price": 7.0
+        }
+    },
+    {
+        "model": "api.product",
+        "pk": 2,
+        "fields": {
+            "name": "Calzone",
+            "description": "Cicoli Ricotta Pepe",
+            "price": 12.0
+        }
+    },
+    {
+        "model": "api.product",
+        "pk": 3,
+        "fields": {
+            "name": "Pizza Marinara",
+            "description": "Pomodoro Origano Aglio",
+            "price": 12.0
+        }
+    }
+]
