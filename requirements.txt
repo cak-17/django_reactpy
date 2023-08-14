@@ -1,4 +1,2 @@
-reactpy[starlette]
 djangorestframework
-requests
 
